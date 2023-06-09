@@ -1,0 +1,6 @@
+name: data-generator
+version: 0.0.1
+
+dependencies:
+  faker:
+    github: askn/faker

@@ -1,0 +1,44 @@
+[
+    {
+        "value": 9,
+        "weight": 10,
+        "volume": 10,
+        "product_type": "a",
+        "manufacturer": "p1"
+    },
+    {
+        "value": 3,
+        "weight": 4,
+        "volume": 9,
+        "product_type": "b",
+        "manufacturer": "p2"
+    },
+    {
+        "value": 3,
+        "weight": 5,
+        "volume": 2,
+        "product_type": "c",
+        "manufacturer": "p1"
+    },
+    {
+        "value": 6,
+        "weight": 4,
+        "volume": 4,
+        "product_type": "c",
+        "manufacturer": "p1"
+    },
+    {
+        "value": 3,
+        "weight": 2,
+        "volume": 2,
+        "product_type": "c",
+        "manufacturer": "p2"
+    },
+    {
+        "value": 3,
+        "weight": 1,
+        "volume": 1,
+        "product_type": "c",
+        "manufacturer": "p2"
+    }
+]

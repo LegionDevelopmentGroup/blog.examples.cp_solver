@@ -1,0 +1,8 @@
+{
+    "max_weight": 150,
+    "max_volume": 120,
+    "min_value": 10,
+    "high_value_max": 0.8,
+    "high_man_max": 0.7,
+    "high_type_max": 0.7
+}
